@@ -1,0 +1,16 @@
+﻿# Application Framework, Extensions, and Server
+# It's good practice to pin these to ensure stable behavior.
+Flask==3.1.1
+flask-cors==6.0.1
+gunicorn==23.0.0
+
+# High-Level Data Science & Plotting Libraries
+# These are unpinned to allow pip to find the fastest,
+# most compatible pre-compiled wheels for the deployment server.
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+requests

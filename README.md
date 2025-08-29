@@ -140,4 +140,4 @@ GreenHand represents a significant step toward democratizing agricultural intell
 #
 
 <h4 align="center" style="color:gold;">✨ Thank You ✨</h4> 
-<h3 align="center" style="color:#e74c3c;">Created By: Aniket, Monalisha, Sarnendu, Aachal</h3>
+<h3 align="center" style="color:#e74c3c;">Created By: Monalisa</h3>
